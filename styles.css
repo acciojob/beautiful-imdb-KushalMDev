@@ -1,2 +1,21 @@
+.moviePic{
+    height: 200px;
+    width: 200px;
+    opacity: 0.7;
+    /* text-align: center; */
+}
+.movieDetail{
+    position: relative;
+    top: auto;
+    width: 500px;
+    text-align: center;
+    font-size: medium;
+}
+.movie{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
 
-/* Your CSS Code here. */
+/* position, top, width, text-align, font-size */
